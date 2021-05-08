@@ -105,7 +105,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#EB3B41</string>
+				<string>#DB3D4D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -290,6 +290,6 @@
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.spacegalaxy2</string>
+	<string>theme.dark.spacegalaxyrel3</string>
 </dict>
 </plist>
