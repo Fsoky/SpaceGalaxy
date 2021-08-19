@@ -18,3 +18,5 @@ Create new folder
 Move files from `SpaceGalaxy` to `somefolder`
 
 Ready! Now you can open `Preferense` -> `Color scheme` and choose theme `SpaceGalaxy` and `Preference` -> `Theme` select `SpaceGalaxyBeta`
+
+If you have some bugs, try install ayu theme in sublime
